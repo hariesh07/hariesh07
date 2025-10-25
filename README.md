@@ -1,6 +1,6 @@
   # Hi there 👋
 
-  ### I'm Hariesh RP, I try to solve problems using Data :)
+  ### I'm Hariesh, I try to solve problems using Data :)
   
   #### • My favorite languages to work with are
   <p align="center"> 
