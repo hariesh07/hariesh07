@@ -27,7 +27,7 @@
 ### 🌐 Connect
 <p align="center">
   <b> Come say hi! 😄
-  <b> Or, checkout: https://harieshrp.netlify.app/ </b>
+  <!--<b> Or, checkout: https://harieshrp.netlify.app/ </b>-->
     <br><br>
   <a href="https://github.com/hariesh07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
